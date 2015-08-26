@@ -24,3 +24,5 @@ For a subtler classy touch, or to use a logo of your choice:
 
 ###To reset back to the default finder logo:
 Run `./reset_classy_finder.sh` (again from inside the classy_finder repository).
+
+Or to restore the previously-used finder logo (if not the default): `./undo_classy_finder.sh`
