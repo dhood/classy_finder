@@ -20,7 +20,7 @@ cd classy_finder
 
 For a subtler classy touch, or to use a logo of your choice:
 
-`./class_finder.sh subtly_classy_finder@2x.png`
+`./class_finder.sh ./Icons/subtly_classy_finder@2x.png`
 
 ###To reset back to the default finder logo:
 Run `./reset_classy_finder.sh` (again from inside the classy_finder repository).
