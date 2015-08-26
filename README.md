@@ -18,5 +18,9 @@ cd classy_finder
 ```
 ####It may take a moment for the dock to come back up, don't panic!!
 
+For a subtler classy touch, or to use a logo of your choice:
+
+`./class_finder.sh subtly_classy_finder@2x.png`
+
 ###To reset back to the default finder logo:
-Run `./reset_classy_finder.sh` (again from inside the classy_finder repository.
+Run `./reset_classy_finder.sh` (again from inside the classy_finder repository).
