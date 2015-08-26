@@ -1,28 +1,9 @@
-# Classy Finder Logo
+# Finder Icon Changer
 
-<img src="https://raw.github.com/vsinha/classy_finder/master/finder@2x.png" width="200" height="200"\>
+<img src="https://raw.githubusercontent.com/dhood/classy_finder/osx-app/Icons/subtly_classy_finder.png" width="100"\>
 
+Replace your default OSX finder icons with whatever you want
 
-> "We soldier on undaunted, you and I, Master Bruce. And if I may say so, sir... I couldn't beg, borrow or steal a finer way to live my life." - Alfred Pennyworth
+###App with sample icons provided [here](https://github.com/dhood/classy_finder/raw/osx-app/Finder%20Icon%20Changer%20App.zip)
 
-Replace your default OSX finder logo with something way more classy
-
-###To use, do the following:
-
-####Be sure to enter your sudo password when prompted!
-
-```sh
-git clone https://github.com/vsinha/classy_finder.git
-cd classy_finder
-./classy_finder.sh
-```
-####It may take a moment for the dock to come back up, don't panic!!
-
-For a subtler classy touch, or to use a logo of your choice:
-
-`./class_finder.sh ./Icons/subtly_classy_finder@2x.png`
-
-###To reset back to the default finder logo:
-Run `./reset_classy_finder.sh` (again from inside the classy_finder repository).
-
-Or to restore the previously-used finder logo (if not the default): `./undo_classy_finder.sh`
+To run script manually, check the [master branch](https://github.com/vsinha/classy_finder/tree/master)
